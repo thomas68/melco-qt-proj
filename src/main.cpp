@@ -11,6 +11,6 @@ int main(int , char **)
 
 //    std::cout << str << std::endl;
 
-
+// Hej hopp
     return 0;
 }
